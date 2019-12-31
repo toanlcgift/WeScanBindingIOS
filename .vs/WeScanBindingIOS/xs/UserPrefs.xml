@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B987A929-D6F0-4B2B-94A9-BE3961FF8581}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeScanBindingIOS" expanded="True" selected="True">
+            <Node name="WeScanBindingIOS" expanded="True">
+              <Node name="NativeReferenceFolder" expanded="True" />
+            </Node>
+            <Node name="WeScanIOSSample" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WeScanIOSSample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.268de9e3ee8fee37058666d59f29b2a7bf0a4a94" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
